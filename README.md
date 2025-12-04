@@ -102,13 +102,4 @@ WaterPocket-FullStack/
     │   └── index.css     # Tailwind imports
     └── package.json
 
-👨‍💻 Founder & Contact
-Prasanna Somasekar M
-Founder & CEO, Water Pocket
-📞 Contact: +91 97911 48594
-📧 Email: prasannasomasekar@gmail.com
-🚀 Mission: "Dedicated to bringing pure, mineral-rich hydration to every doorstep."
-image of the owner is placed inside the project
 
-📜 License
-This project is developed for educational and portfolio purposes.
